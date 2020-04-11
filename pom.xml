@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.durand.didier</groupId>
-	<artifactId>mvn-template</artifactId>
+	<artifactId>google-cloud-functions-for-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mvn template for GitHub</name>
 
@@ -45,6 +45,7 @@
 	</build>
 
 	<dependencies>
+		
 		<!-- JUnit 5 -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
